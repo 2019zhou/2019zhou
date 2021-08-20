@@ -1,4 +1,4 @@
-### Hi there, I am Zhou Zhou👋
+### Hi there, I am Zhou Zhou.😄
 
 <!--
 **2019zhou/2019zhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![image](go.gif)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2019zhou)
+
+<a href="https://github.com/2019zhou/bookourplane">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2019zhou&repo=bookourplane" />
+</a>
+
+<a href="https://github.com/2019zhou/APR_paper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2019zhou&repo=APR_paper" />
+</a>
