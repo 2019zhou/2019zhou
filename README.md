@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2019zhou)
+![Zhou Zhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=2019zhou)
 
 <a href="https://github.com/2019zhou/bookourplane">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2019zhou&repo=bookourplane" />
